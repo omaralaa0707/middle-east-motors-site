@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none">
+  <!-- MEM: three kerbstones on a road, which is where every one of their
+       photographs is taken. -->
+  <rect x="3" y="30" width="42" height="3.4" rx="1.7" fill="#c98a3c" />
+  <rect x="3" y="37.5" width="26" height="2.4" rx="1.2" fill="#7d7161" />
+  <path d="M7 26V14l6.5 8L20 14v12" stroke="#faa65e" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  <path d="M26 26V14h8" stroke="#e8dcc8" stroke-width="3" stroke-linecap="round" fill="none" />
+  <path d="M26 20h6.5" stroke="#e8dcc8" stroke-width="3" stroke-linecap="round" />
+  <path d="M26 26h8" stroke="#e8dcc8" stroke-width="3" stroke-linecap="round" />
+  <path d="M39 26V14l3 4" stroke="#e8dcc8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+</svg>
